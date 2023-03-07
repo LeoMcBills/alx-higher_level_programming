@@ -1,13 +1,14 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
+
+
 def num(x):
     list1 = list(str(x))
     numb = list1[-1]
     if x < 0:
         return -1 * int(numb)
-    return (numb)
-
+    return int(numb)
 
 
 last = num(number)
