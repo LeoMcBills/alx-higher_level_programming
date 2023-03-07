@@ -41,3 +41,63 @@ In this project, I have implemented some of the Control Flow Tools in my program
 11. a^b
 	Compute a to the power of b and return the result
 
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
+12. Fizz Buzz
+	Iterates from 1 to 100 printing Fizz instead of multiples of 3, Buzz instead of multiples of 5 and FizzBuzz for multiples of both 3 and 5.
+
+13. Insert in sorted linked list
+
