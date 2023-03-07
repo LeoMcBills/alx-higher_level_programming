@@ -15,4 +15,7 @@ In this project, I have implemented some of the Control Flow Tools in my program
 	print a string of alphabets without a next line
 
 3. When I was having that alphabet soup, I never thought that it would pay off
+	Print a string of alphabets but excluding q and e then dont skip to next line
+
+4. Hexadecimal printing
 
