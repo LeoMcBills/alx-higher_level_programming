@@ -1,13 +1,20 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
-list1 = list(str(number))
-num = list1[-1]
-num = int(num)
+def num(x):
+    list1 = list(str(x))
+    numb = list1[-1]
+    if x < 0:
+        return -1 * int(numb)
+    return (numb)
 
-if num > 5:
-    print(f"Last digit of {number} is {num} and is greater than 5")
-elif num == 0:
-    print(f"Last digit of {number} is {num} and is 0")
-elif num < 6 and not 0:
-    print(f"Last digit of {number} is {num} and is less than 6 and not 0")
+
+
+last = num(number)
+
+if last > 5:
+    print(f"Last digit of {number} is {last} and is greater than 5")
+elif last == 0:
+    print(f"Last digit of {number} is {last} and is 0")
+elif last < 6 and not 0:
+    print(f"Last digit of {number} is {last} and is less than 6 and not 0")
