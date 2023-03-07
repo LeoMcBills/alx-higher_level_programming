@@ -18,4 +18,10 @@ In this project, I have implemented some of the Control Flow Tools in my program
 	Print a string of alphabets but excluding q and e then dont skip to next line
 
 4. Hexadecimal printing
+	print number followed by its hexadecimal equivalent
+
+5. 00...99
+	print numbers 01 to 99 followed by a new line
+
+6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 
