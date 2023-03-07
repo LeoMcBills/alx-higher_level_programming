@@ -24,4 +24,11 @@ In this project, I have implemented some of the Control Flow Tools in my program
 	print numbers 01 to 99 followed by a new line
 
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
+	prints a combination of integers ensuring that no duplication is done yet numbers are arranged in ascending order
+
+7. islower
+	A function that checks for lowercase character
+
+8. To uppercase
+	Afunction that prints a string in uppercase followed by a new line
 
