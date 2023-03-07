@@ -32,3 +32,12 @@ In this project, I have implemented some of the Control Flow Tools in my program
 8. To uppercase
 	Afunction that prints a string in uppercase followed by a new line
 
+9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+	Print last digits of a number
+
+10. a + b
+	Add two numbers and return their result
+
+11. a^b
+	Compute a to the power of b and return the result
+
